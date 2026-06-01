@@ -1,0 +1,21 @@
+body{
+    background-image: url(../public/images/to-do.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.shade{
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.img{
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+.img1{
+    background-color: lightgrey;
+    padding: 5px;
+    border-radius: 5px;
+}
